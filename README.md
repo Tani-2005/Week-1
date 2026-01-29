@@ -1,6 +1,4 @@
-# Week-1
-
-## Personal Introduction Program:
+# Personal Introduction Program
 ## Project Overview
 This project is a simple Python program that asks the user for personal information
 and displays a friendly welcome message. It helps beginners understand input, output,
